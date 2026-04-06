@@ -2,3 +2,6 @@
 *.DS_Store
 *.rds
 results_master/
+.Rproj.user
+.RData
+.Rhistory
