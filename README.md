@@ -134,7 +134,7 @@ generalisability.
 ### Validation Performance (Primary Metric: Spearman Rank Correlation)
 
 | Method | Spearman ρ | Top 10% Capture | Deployment Context |
-|----------------|----------------|--------------------|----------------------|
+|-----------------|-----------------|------------------|--------------------|
 | 1A: Crude | 0.415 | 43.0% | ❌ Not recommended |
 | 1B: Age-Sex Std | 0.464 | 39.8% | Limited use |
 | **1C: Age-Sex-IMD Std** | **0.519** | **42.3%** | ✅ **New regions** |
@@ -163,7 +163,7 @@ demographic generalisation.
 All data sourced from 2021/22 where possible;
 
 | Data | Source | Year |
-|----------------------|-----------------------------|----------------------|
+|----------------------|----------------------------|----------------------|
 | LSOA population (age × sex) | ONS mid-year estimates | 2022–2025 |
 | IMD by LSOA | Ministry of Housing, Communities & Local Government | 2025 |
 | CHD national prevalence (stratified) | Clinical Practice Research Datalink (Gutacker et al.) | 2019/2020 |
@@ -290,7 +290,7 @@ Data Challenge, London School of Hygiene & Tropical Medicine.
 
 For questions or issues: - Review `README_ANALYSIS.md` for detailed
 workflow - Check the troubleshooting section in `README_ANALYSIS.md` -
-Contact: [your email or GitHub issues]
+Contact: do.oparak\@gmail.com
 
 ------------------------------------------------------------------------
 
