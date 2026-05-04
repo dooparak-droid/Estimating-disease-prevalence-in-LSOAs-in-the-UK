@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Estimating Disease Prevalence in LSOAs in the UK
 
 ## Overview
